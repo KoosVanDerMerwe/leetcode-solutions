@@ -27,4 +27,8 @@
 |  |
 | ------- |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Array
+|  |
+| ------- |
+| [0717-1-bit-and-2-bit-characters](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 <!---LeetCode Topics End-->
