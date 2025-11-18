@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Dynamic Programming
 |  |
@@ -33,5 +34,10 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
