@@ -14,4 +14,17 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Greedy
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Memoization
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
