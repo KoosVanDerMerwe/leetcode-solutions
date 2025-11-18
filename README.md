@@ -5,6 +5,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
@@ -31,5 +32,6 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/0001-two-sum) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 <!---LeetCode Topics End-->
