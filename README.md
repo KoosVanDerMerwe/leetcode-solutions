@@ -1,4 +1,5 @@
 # leetcode-solutions
+[![Organize by Difficulty](https://github.com/KoosVanDerMerwe/leetcode-solutions/actions/workflows/sort-by-difficulty.yml/badge.svg)](https://github.com/KoosVanDerMerwe/leetcode-solutions/actions/workflows/sort-by-difficulty.yml)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table
