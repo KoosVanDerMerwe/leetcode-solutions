@@ -38,6 +38,7 @@
 | [0001-two-sum](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0977-squares-of-a-sorted-array](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Trie
 |  |
 | ------- |
@@ -50,4 +51,9 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
