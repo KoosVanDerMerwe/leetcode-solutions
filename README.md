@@ -44,6 +44,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/NicGroenewald/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0977-squares-of-a-sorted-array](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/NicGroenewald/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Trie
 |  |
 | ------- |
@@ -60,10 +61,12 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/NicGroenewald/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/NicGroenewald/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Linked List
 |  |
 | ------- |
