@@ -41,6 +41,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0643-maximum-average-subarray-i](https://github.com/NicGroenewald/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0977-squares-of-a-sorted-array](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Trie
@@ -79,4 +80,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/0035-search-insert-position) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/NicGroenewald/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
