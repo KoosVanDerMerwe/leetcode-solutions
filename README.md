@@ -45,6 +45,7 @@
 | [0717-1-bit-and-2-bit-characters](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0977-squares-of-a-sorted-array](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/NicGroenewald/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/NicGroenewald/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/NicGroenewald/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 ## Trie
 |  |
@@ -84,12 +85,15 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/KoosVanDerMerwe/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [1046-max-consecutive-ones-iii](https://github.com/NicGroenewald/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/NicGroenewald/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/NicGroenewald/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/NicGroenewald/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/NicGroenewald/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
